@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">VCV</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">USER NAME DISPLAY</string>
+    <string name="nav_header_subtitle">TITLE</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Save City</string>
+    <string name="action_play_next">New Jobs</string>
+    <string name="backdrop_title">Search Your Job City</string>
+    <string name="backdrop_subtitle">This season top 2000 jobs</string>
+
+
+    <string-array name="countries_array">
+        <item>ANDHRA PRADESH</item>
+        <item>PONDICHERRY</item>
+        <item>ASSAM</item>
+        <item>BIHAR</item>
+        <item>CHATTISGARH</item>
+        <item>DELHI</item>
+        <item>GUJARAT</item>
+        <item>DAMAN AND DIU</item>
+        <item>DADRA AND NAGAR HAVELI</item>
+        <item>HARYANA</item>
+        <item>HIMACHAL PRADESH</item>
+        <item>JAMMU AND KASHMIR</item>
+        <item>JHARKHAND</item>
+        <item>KARNATAKA</item>
+        <item>KERALA</item>
+        <item>LAKSHADWEEP</item>
+        <item>MADHYA PRADESH</item>
+        <item>MAHARASHTRA</item>
+        <item>GOA</item>
+        <item>MANIPUR</item>
+        <item>MIZORAM</item>
+        <item>NAGALAND</item>
+        <item>TRIPURA</item>
+        <item>ARUNACHAL PRADESH</item>
+        <item>MEGHALAYA</item>
+        <item>ODISHA</item>
+        <item>PUNJAB</item>
+        <item>CHANDIGARH</item>
+        <item>RAJASTHAN</item>
+        <item>TAMIL NADU</item>
+        <item>UTTAR PRADESH</item>
+        <item>UTTARAKHAND</item>
+        <item>WEST BENGAL</item>
+        <item>ANDAMAN AND NICOBAR ISLANDS</item>
+        <item>SIKKIM</item>
+    </string-array>
+
+    <string-array name="Jobs">
+        <item>Painters</item>
+        <item>programmer</item>
+        <item>developer</item>
+        <item>Postman</item>
+        <item>Cyber security</item>
+        <item>Cyber tester</item>
+        <item>Tester</item>
+        <item>Manager</item>
+        <item>Designer</item>
+    </string-array>
+
+
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
